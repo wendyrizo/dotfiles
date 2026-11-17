@@ -32,7 +32,7 @@ markup=none
 [focused window]
 command=xdotool getwindowname $(xdotool getwindowfocus)
 interval=1
-color=#A6D1FA
+color=#bd7474
 min_width=1285
 align=center
 separator=false
